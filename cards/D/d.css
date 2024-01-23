@@ -99,7 +99,7 @@ body {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 460px) {
     .movement {
         width: 300px;
     }
