@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.file {
+    text-decoration: none;
+    color: brown;
+    font-size: 20px;
+}
+
+.btn {
+    color: white;
+    background-color: brown;
+    width: 100px;
+    margin-left: 100px;
+    transition: ease-in-out 3s;
+}
+
+.btn:hover {
+    transform: rotate(10000deg);
+}
